@@ -1,4 +1,4 @@
 # Add code from Readme
-class Bird < ApplicationController
+class Bird < ApplicationRecord
 
-end 
+end
